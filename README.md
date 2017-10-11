@@ -6,9 +6,10 @@ My way to stay up to date. Great information resources about various topics: web
 
 - http://www.finimize.com/ (Newsletter, daily)
 
-## General (computer) geeky stuff
+## General IT / tech / geeky stuff
 
 - http://www.hackernewsletter.com/ (Newsletter, weekly Friday)
+- http://ben-evans.com/newsletter Benedict's Newsletter (weekly)
 
 ## Program management / Leadership
 
