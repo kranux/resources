@@ -34,6 +34,6 @@ My way to stay up to date. Great information resources about various topics: web
 
 - https://www.typescript-weekly.com/ (Newsletter, weekly, Friday)
 
-## Artificial inteligence / Robotics
+## Artificial intelligence / Robotics
 
 - http://www.kurzweilai.net/ (Newsletter)
