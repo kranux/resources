@@ -33,3 +33,7 @@ My way to stay up to date. Great information resources about various topics: web
 ## JavaScript, TypeScript, Angular 2+
 
 - https://www.typescript-weekly.com/ (Newsletter, weekly, Friday)
+
+## Artificial inteligence / Robotics
+
+- http://www.kurzweilai.net/ (Newsletter)
